@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.9516129
+color:
+  saturation: 0.9879011
+  lightness: 0.2162377
+  brandStrength: 0.5561529
+  brandColors:
+    - '#524A97'
+    - '#2B274A'
+    - '#EAE1C6'
+    - '#A5A1CF'
+    - '#877777'
+  rhythmicContrast: 0.9087898
+name: MelbourneObstetrician
